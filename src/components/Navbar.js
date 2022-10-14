@@ -33,9 +33,9 @@ class Navbar extends Component {
         </a>
         <ul className="navbar-nav px-3">
           <li className="text-nowrap d-done nav-item d-sm-none d-sm-block">
-            <small style={{ color: "white" }}>
+            <medium style={{ color: "white" }}>
               Address: {account(this.props.account)}{" "}
-            </small>
+            </medium>
           </li>
         </ul>
       </nav>
