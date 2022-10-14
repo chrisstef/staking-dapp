@@ -17,10 +17,11 @@ Reward tokens will then have use case (such as voting power, access to specific 
 
 
 The Dapp is currently been deployed on the folllowing test networks:
-- **[Stardust](https://stardust-explorer.metis.io/)**
+
 - **[Mumbai](https://mumbai.polygonscan.com/)**
-- **[Meter](https://scan-warringstakes.meter.io/)**
 - **[Rinkeby](https://www.rinkeby.io/#stats)**
+- **[Stardust](https://stardust-explorer.metis.io/)**
+- **[Meter](https://scan-warringstakes.meter.io/)**
 
 
 It allows us to:
@@ -34,7 +35,7 @@ It allows us to:
 - `issueTokens`: Issue a reward to the users who are staking.
 
 
-For the above interactions with the blockchain, we created 3 smart contracts namely:
+For the above interactions with the blockchain, we created 3 __smart contracts__ namely:
 
 - `RWD` : A reward token(RWD), which is being airdropped to the staking addresses.
 
@@ -65,17 +66,17 @@ https://youtu.be/k7Vmh-2DWIM
 
 You need to have **[Metamask](https://metamask.io/)** installed and make sure you are connected to one of the following networks:
 
-- **[Stardust](https://stardust-explorer.metis.io/)**
 - **[Mumbai](https://mumbai.polygonscan.com/)**
-- **[Meter](https://scan-warringstakes.meter.io/)**
 - **[Rinkeby](https://www.rinkeby.io/#stats)**
+- **[Stardust](https://stardust-explorer.metis.io/)**
+- **[Meter](https://scan-warringstakes.meter.io/)**
 
 To add a network, I would personally recommend to read through this page: **[Chainlist](https://chainlist.org/)**.
 
 After you succesfully connect, mint some free mUSDT and stake it. The airdrop will occur every 1 min.
 
-The amount of reward tokens (RWD) being airdropped, equals to one fifth of the amount of mUSDT being staked. 
-( RWD = mUSDT/5 ).
+The amount of reward tokens (RWD) being airdropped, equals to __one fifth__ of the amount of mUSDT being staked. 
+__( RWD = mUSDT/5 )__.
 
 Patiently wait between transactions and feel free to interact with the blockchain in any way you want :)
 
@@ -128,7 +129,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Tests ✔
 
-Truffle suite is ideal for testing our smart contracts. 
+__Truffle suite__ is ideal for testing our smart contracts. 
 
 The subfoloder `test`, contains custom tests I wrote such as:
 
