@@ -1,6 +1,6 @@
 <p align="center" width="200">
 <a href="https://defi-staking.vercel.app/">
-<img src="/src/bank.png" alt="Alt text" title="Optional title">
+<img src="/src/bank.png" alt="Alt text" title="defi-staking">
  </a>
 </p>
 
